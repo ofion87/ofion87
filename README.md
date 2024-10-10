@@ -16,7 +16,7 @@ Sou o Beltran um Analista apaixonado por produtos digitais. Estou usando o Githu
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ofion87&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-![Snake animation](https://github.com/ofion87/Beltran/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ofion87/ofion87/blob/output/github-contribution-grid-snake.svg)
 
 ## Contatos:
 
