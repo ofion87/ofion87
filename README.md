@@ -1,5 +1,5 @@
 # Olá pessola, que bom ter você aqui!
-Sou o Beltran um Analista apaixonado por produtos digitais. Estou usando o Github para aprender e compartilhar minhas experiencias nos diversos cursos que fiz e estou fazendo.
+Sou o Beltran um Analista apaixonado por produtos digitais. Estou usando o Github para aprender e compartilhar minhas experiencias nos diversos cursos que fiz e estou fazendo:
 
 - 🔭 Atualmente estou trabalhando em com produtos digitais
 - 🌱 Atualmente estou aprendendo Cloud Azure
